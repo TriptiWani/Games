@@ -1,6 +1,9 @@
 $(document).ready(function() {
+
+
     //Declaring the variables
     var clickCount = 0;
+    // inputImg
     var inputImg = [];
     var clickCounter = 0;
     var grid = [];
